@@ -1,0 +1,13 @@
+.movieImage {
+    margin: 10px;
+    padding: 5px;
+}
+
+.img {
+    height: 500px;
+}
+
+.imgDetail {
+    width: 200px;
+    margin-bottom: 10px;
+}
